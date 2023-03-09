@@ -1,7 +1,7 @@
 ## Nama : Risky HariAdi
 ## Nim : 312010124
 ## Kelas : TI.20.A1
-## ata Kuliah : Lab Data Mining
+## mata Kuliah : Lab Data Mining
 
 Berikut ini hasil latihan modul 2 / pratikum 2 pada mata kuliah Lab (DATA MINING) <br>
 
