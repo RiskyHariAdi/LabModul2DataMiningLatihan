@@ -1,0 +1,3 @@
+import Latihan4
+
+Latihan4.tampilkan_biodata("Risky HariAdi", "312010124", "TI.20.A1")
